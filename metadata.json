@@ -1,0 +1,7 @@
+{
+  "name": "HealthLens AI - Disease & Symptom Tracker",
+  "description": "A sophisticated health monitoring application that uses the Gemini API to analyze physical symptoms and skin conditions through live images and descriptions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
